@@ -1,6 +1,6 @@
 # 🚀 FutureProof Coin (FPC)
 
-![FPC Logo](https://iili.io/FANN0lt.png)
+![FPC Logo](https://iili.io/F70DpSt.webp)
 
 > **The Future of Decentralized Proof**
 
@@ -12,7 +12,7 @@ Welcome to the official repository of **FutureProof Coin (FPC)** — a BEP-20 ba
 
 - 🔥 [Join Telegram](https://t.me/FPCoinOfficial)
 - 🎁 [Claim Airdrop](https://forms.gle/YOUR_REAL_FORM_LINK) Coming Soon
-- 💱 [Buy on PancakeSwap]([https://pancakeswap.finance/swap](https://pancakeswap.finance/swap?outputCurrency=0xCA4Ac8517D53b73d797F612E0f0e0216805640D3)
+- 💱 [Buy on PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0xCA4Ac8517D53b73d797F612E0f0e0216805640D3)
 
 ---
 
